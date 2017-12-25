@@ -1,0 +1,7 @@
+<launch>
+<node name="myTurtle4" pkg="spawn1" type="spawn" args="1 7 0 turtle1"/>
+<node name="myTurtle0" pkg="spawn1" type="spawn" args="10 5 0 turtle2"/>
+<node name="myTurtle1" pkg="spawn1" type="spawn" args="5 10 0 turtle3"/>
+<node name="myTurtle2" pkg="spawn1" type="spawn" args="2 2 0 turtle4"/>
+<node name="myTurtle3" pkg="spawn1" type="spawn" args="7 7 0 turtle5"/>
+</launch>
